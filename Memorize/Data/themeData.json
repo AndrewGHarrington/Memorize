@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Vehicles"
+        "numberOfPairsOfCards":12
+        "content":["🚔", "🚝", "✈️", "🚂", "🚀", "🚃", "🛩️", "⛴️", "🛳️", "⛵️", "🚤", "🚗"]
+        "color":"red"
+    },
+    {
+        "name":"Devices"
+        "numberOfPairsOfCards":8
+        "content":["⌚️", "📱", "💻", "🖱️", "🖥️", "📷", "🎙️", "📺"]
+        "color":"gray"
+    },
+    {
+        "name":"Food"
+        "numberOfPairsOfCards":10
+        "content":["🍙", "🍜", "🍛", "🍩", "🍘", "🍥", "🍣", "🍡", "🍮", "🍬"]
+        "color":"green"
+    },
+    {
+        "name":"Smileys"
+        "numberOfPairsOfCards":6
+        "content":["😀", "🥹", "😂", "☺️", "🥰", "🥳", "😎", "😟", "😡", "😱", "🤬", "🤢"]
+        "color":"yellow"
+    },
+    {
+        "name":"Animals"
+        "numberOfPairsOfCards":12
+        "content":["🐶", "🐱", "🐭", "🐹", "🐰", "🦊", "🐻", "🐼", "🐨", "🐯", "🦁", "🐸"]
+        "color":"orange"
+    },
+    {
+        "name":"Sports"
+        "numberOfPairsOfCards":5
+        "content":["⚽️", "🏀", "⚾️", "🏐", "🎾"]
+        "color":"blue"
+    }
+]
